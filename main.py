@@ -106,4 +106,5 @@ def check_email():
 
 while True:
     check_email()
+
     time.sleep(60)
